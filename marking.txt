@@ -1,0 +1,28 @@
+Technology:
+React w/Bootsrap
+ExpressJS
+MongoDB
+
+
+Rubric
+Functionality (50 marks)
+	Authentication – 10 marks
+	Personal and Public areas – 5 marks
+	CRUD operations – 10 marks
+	Profile management – 5 marks
+	Advanced Search and Filter mechanism – 5 marks
+	Validation of inputs (from forms) – 5 marks
+	Upload mechanism (for files) – 5 marks
+	Asynchronous communication (AJAX, with DB, JSON or XML file) – 5 marks
+
+Usability/User Experience (25 marks)
+	Communication with the User (error messages, etc.) – 5 marks
+	Bootstrap (for visuals) – 10 marks
+	Responsive – Works well on mobile and Web - 10 marks
+
+Documentation (10 marks)
+	Deployment instructions (readme.txt) – 10 marks
+
+Project presentation (15 marks)
+	Demo – 5 marks
+	Project Walkthrough / Discussion – 10 marks
