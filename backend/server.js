@@ -12,10 +12,11 @@ connectDB()
 
 const app = express()
 
-//logs objects
+//logs objects®
 app.use(express.json())
 app.use(express.urlencoded({extended: false}))
 app.use('/api/workouts', require('./routes/workoutRoutes'))
+app.use('/api/users', require('./routes/userRoutes'))
 //express errorhandler is overwritten
 app.use(errorHandler)
 

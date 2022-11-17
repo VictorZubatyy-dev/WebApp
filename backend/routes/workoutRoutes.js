@@ -6,6 +6,7 @@ const { getWorkouts,
         setWorkout,
         deleteWorkout } = require('../controllers/workoutController')
 
+// endpoints
 router.route('/').get(getWorkouts).post(setWorkout)
 router.route('/:id').delete(deleteWorkout).put(updateWorkout)
 
